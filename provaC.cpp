@@ -5,7 +5,7 @@ int somma(int a, int b){
 }
 
 int main() {
-    int a=somma(1,2);
-    std::cout << "Valore della somma: "<< a << std::endl;
+    int a=somma(4,7);
+    std::cout << "\nValore della somma: "<< a << "\n" << std::endl;
     return 0;
 }
